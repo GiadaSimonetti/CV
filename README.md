@@ -1,6 +1,8 @@
-## Your Name
+## Giada Simonetti
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
+
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Dec 2017 - Mar 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +36,50 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Udemy (Jul 2017 - Now)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- HTML
+- CSS
+- Javascript
+
+#### Free Code Camp (Jul 2016 - Now)
+
+- HTML
+- CSS
+- Javascript
+
+#### ELATT (Sep 2015 - Apr 2016)
+
+- HTML
+- CSS
+- CMS System
+- Responsive Web Design
+- Photoshop
+
+#### Ferrara University, Ferrara, Italy (Feb 2012 - Nov 2012)
+
+- Cultural Management
+- Post Graduate Certificate
+
+
+#### University of Urbino 'Carlo Bo', Urbino, Italy (2005 – 2008)
+
+- Art History
+- Master’s Degree
+
+#### University of Urbino 'Carlo Bo', Urbino, Italy (2002 – 2006)
+
+- Cultural Heritage
+- Bachelor’s Degree
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Primark** (Dec 2016 - Jul 2017)    
+*Visual Merchandiser*
+**Primark** (Oct 2015 - Nov 2016)    
+*Reatail Assistant*
+**Artes Coop** (Feb 2011 - Aug 2014)   
+*Museum Assistant*  
