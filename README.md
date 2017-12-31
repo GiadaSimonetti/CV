@@ -2,7 +2,6 @@
 
 I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## Skills
 
@@ -83,3 +82,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Reatail Assistant*
 **Artes Coop** (Feb 2011 - Aug 2014)   
 *Museum Assistant*  
+
+## Interests
+
+- Drawing
+- Baking
+- Reading
+
+## Contact
+
+- Github: GiadaSimonetti
+- Twitter: @VioletGiada
+- Codewars: https://www.codewars.com/users/GiadaSimonetti
+- Linkedin: https://www.linkedin.com/in/giada-simonetti-9b733037
