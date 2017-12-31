@@ -5,30 +5,20 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 ## Skills
 
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I have a natural approach to facilitate other people’s learning, as I have done during my previous job at Primark. As a retail assistant, I was sent to Milan to support during the opening of the first store in Italy. My task was to train the new local personnel, and thanks to my support and coaching, they all passed the probation period and were ready for the role.
+- Some of the Free Code Camp projects I have done include:
+  - a random quote machine https://goo.gl/ohPXmE which is responsive and where I implemented buttons to tweet the quote and share it on Tumblr. I did so by reading the official docs and googling for what I didn’t know;
+  - another random quote machine https://goo.gl/Hk6tnn in which it is also possible to automatically search for the author of the quote;
+  - a page that displays the current weather https://goo.gl/ErCL9R It consumes data from a public API, and can find the location of the user, show the weather and change the temperature from Celsius to Fahrenheit.
+- I have been to some meetups, such as a Codebar monthly talk, and a hackathon (peacehackLDN 2017: Robots for Peace) in which I built a Twitter bot that sends a random message of peace every hour: https://twitter.com/GiadaPeaceBot
 
 ## Education
 
 #### Makers Academy (Dec 2017 - Mar 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -89,7 +79,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Baking
 - Reading
 
-## Contact
+## Contacts
 
 - Github: GiadaSimonetti
 - Twitter: @VioletGiada
