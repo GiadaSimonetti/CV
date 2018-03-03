@@ -4,11 +4,11 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 ## Projects
 
-| Project       | Summary          | Technologies  | Testing      |
-| ------------- |:-------------:   |:-------------:| -----:|
-| col 3 is      | right-aligned    |               | $1600 |
-| col 2 is      | centered         |               |   $12 |
-| zebra stripes | are neat         |               |    $1 |
+| ----------------------------|:----------------:|:-------------:| ------------:|
+| Project                     | Summary          | Technologies  | Testing      |
+| [Chitter](https://github.com/GiadaSimonetti/chitter-challenge)| My own "Twitter"|Ruby, Sinatra|RSpec, Capybara|
+| [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application|Vanilla JavaScript, HTML/CSS             |Own Testing Syntax |
+<!-- | zebra stripes               | are neat         |               |    $1 | -->
 
 
 ## Skills
@@ -39,9 +39,9 @@ I am post graduate in art with several years of experience in museums and exhibi
 - RSpec, Jasmine
 
 #### Other Courses
-**Udemy** (Jul 2017 - Now)
-**Free Code Camp** (Jul 2016 - Now)
-**ELATT** (Sep 2015 - Apr 2016)
+- **Udemy** (Jul 2017 - Now)
+- **Free Code Camp** (Jul 2016 - Now)
+- **ELATT** (Sep 2015 - Apr 2016)
 
 #### Any other qualifications
 
