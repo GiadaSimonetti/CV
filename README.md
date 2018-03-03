@@ -1,5 +1,7 @@
 ## Giada Simonetti
 
+[PROJECTS](#Projects) | [SKILLS](#Skills) | [EDUCATION](#Education) | [EXPERIENCE](#Experience)| [INTERESTS](#Interests) | [CONTACTS](#Contacts)
+
 I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
 
 ## Projects
@@ -67,7 +69,7 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 - Drawing
 - Baking
-- Reading
+- Art Histoy
 
 ## Contacts
 
