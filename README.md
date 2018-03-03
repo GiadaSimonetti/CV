@@ -72,8 +72,24 @@ I am post graduate in art with several years of experience in museums and exhibi
 - Art Histoy
 
 ## Contacts
-
+<!--
 - Github: GiadaSimonetti
 - Twitter: @VioletGiada
 - Codewars: https://www.codewars.com/users/GiadaSimonetti
-- Linkedin: https://www.linkedin.com/in/giada-simonetti-9b733037
+- Linkedin: https://www.linkedin.com/in/giada-simonetti-9b733037 -->
+
+<p align="center">
+
+<a href="https://github.com/GiadaSimonetti">
+<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.codewars.com/users/GiadaSimonetti">
+<img src="https://www.shareicon.net/data/512x512/2016/11/01/849405_codewars_512x512.png" alt="codewars" hspace="50" height="42" width="42"></a>
+
+<a href="https://twitter.com/VioletGiada">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/giada-simonetti-9b733037">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
