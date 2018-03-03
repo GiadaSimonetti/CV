@@ -2,6 +2,14 @@
 
 I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
 
+## Projects
+
+| Project       | Summary          | Technologies  | Testing      |
+| ------------- |:-------------:   |:-------------:| -----:|
+| col 3 is      | right-aligned    |               | $1600 |
+| col 2 is      | centered         |               |   $12 |
+| zebra stripes | are neat         |               |    $1 |
+
 
 ## Skills
 
@@ -17,52 +25,34 @@ I am post graduate in art with several years of experience in museums and exhibi
 #### Makers Academy (Dec 2017 - Mar 2018)
 
 - Curious and passionate about code.
+
 - Fast, independent learner
+
 - Great collaborator
 
 - OOP, TDD, MVC, DDD
+
 - Agile/XP
+
 - Ruby, Rails, JavaScript
+
 - RSpec, Jasmine
 
-#### Udemy (Jul 2017 - Now)
-
-- HTML
-- CSS
-- Javascript
-
-#### Free Code Camp (Jul 2016 - Now)
-
-- HTML
-- CSS
-- Javascript
-
-#### ELATT (Sep 2015 - Apr 2016)
-
-- HTML
-- CSS
-- CMS System
-- Responsive Web Design
-- Photoshop
-
-#### Ferrara University, Ferrara, Italy (Feb 2012 - Nov 2012)
-
-- Cultural Management
-- Post Graduate Certificate
-
-
-#### University of Urbino 'Carlo Bo', Urbino, Italy (2005 – 2008)
-
-- Art History
-- Master’s Degree
-
-#### University of Urbino 'Carlo Bo', Urbino, Italy (2002 – 2006)
-
-- Cultural Heritage
-- Bachelor’s Degree
-
+#### Other Courses
+**Udemy** (Jul 2017 - Now)
+**Free Code Camp** (Jul 2016 - Now)
+**ELATT** (Sep 2015 - Apr 2016)
 
 #### Any other qualifications
+
+**Post Graduate Certificate in Cultural Management** (Feb 2012 - Nov 2012)
+*Ferrara University, Ferrara, Italy*
+
+**Master’s Degree in Art History** (2005 – 2008)
+*University of Urbino 'Carlo Bo', Urbino, Italy*
+
+**Bachelor’s Degree in Cultural Heritage** (2002 – 2006)
+*University of Urbino 'Carlo Bo', Urbino, Italy*
 
 ## Experience
 
