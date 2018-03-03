@@ -4,10 +4,10 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 ## Projects
 
-| ----------------------------|:----------------:|:-------------:| ------------:|
 | Project                     | Summary          | Technologies  | Testing      |
+| ----------------------------|:----------------:|:-------------:| ------------:|
 | [Chitter](https://github.com/GiadaSimonetti/chitter-challenge)| My own "Twitter"|Ruby, Sinatra|RSpec, Capybara|
-| [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application|Vanilla JavaScript, HTML/CSS             |Own Testing Syntax |
+| [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application|Vanilla JavaScript, HTML/CSS|Own Testing Syntax |
 <!-- | zebra stripes               | are neat         |               |    $1 | -->
 
 
