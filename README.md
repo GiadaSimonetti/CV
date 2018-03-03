@@ -1,6 +1,6 @@
 ## Giada Simonetti
 
-[PROJECTS](#Projects) | [SKILLS](#Skills) | [EDUCATION](#Education) | [EXPERIENCE](#Experience)| [INTERESTS](#Interests) | [CONTACTS](#Contacts)
+[PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [CONTACTS](#contacts)
 
 I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
 
@@ -47,13 +47,13 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 #### Any other qualifications
 
-**Post Graduate Certificate in Cultural Management** (Feb 2012 - Nov 2012)
+**Post Graduate Certificate** in **Cultural Management** (Feb 2012 - Nov 2012)
 *Ferrara University, Ferrara, Italy*
 
-**Master’s Degree in Art History** (2005 – 2008)
+**Master’s Degree** in **Art History** (2005 – 2008)
 *University of Urbino 'Carlo Bo', Urbino, Italy*
 
-**Bachelor’s Degree in Cultural Heritage** (2002 – 2006)
+**Bachelor’s Degree** in **Cultural Heritage** (2002 – 2006)
 *University of Urbino 'Carlo Bo', Urbino, Italy*
 
 ## Experience
