@@ -60,8 +60,10 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 **Primark** (Dec 2016 - Jul 2017)    
 *Visual Merchandiser*
+
 **Primark** (Oct 2015 - Nov 2016)    
-*Reatail Assistant*
+*Retail Assistant*
+
 **Artes Coop** (Feb 2011 - Aug 2014)   
 *Museum Assistant*  
 
