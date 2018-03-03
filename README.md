@@ -67,9 +67,9 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 ## Interests
 
+- Art History
 - Drawing
 - Baking
-- Art Histoy
 
 ## Contacts
 
