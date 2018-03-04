@@ -8,9 +8,9 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 | Project                     | Summary          | Technologies  | Testing      |
 | ----------------------------|:----------------:|:-------------:| ------------:|
-| [Chitter](https://github.com/GiadaSimonetti/chitter-challenge)| My own "Twitter"|Ruby, Sinatra| RSpec, Capybara |
-| [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)| Group project to create a "Airbnb"like site | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |RSpec, Capybara|
-| [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application | Vanilla JavaScript, HTML/CSS  |Own Testing Syntax |
+| [Chitter](https://github.com/GiadaSimonetti/chitter-challenge)| My own "Twitter"| Ruby, Sinatra | RSpec, Capybara |
+| [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)| Group project to create a "Airbnb"like site | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap | RSpec, Capybara |
+| [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application | Vanilla JavaScript, HTML/CSS  | Own Testing Syntax |
 
 
 ## Skills
@@ -85,6 +85,9 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 <a href="https://github.com/GiadaSimonetti">
 <img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" hspace="50" height="42" width="42"></a>
+
+<a href="https://codepen.io/Magenta/">
+<img src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="Codepen" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.codewars.com/users/GiadaSimonetti">
 <img src="https://www.shareicon.net/data/512x512/2016/11/01/849405_codewars_512x512.png" alt="codewars" hspace="50" height="42" width="42"></a>
