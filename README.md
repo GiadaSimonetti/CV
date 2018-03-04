@@ -9,7 +9,7 @@ I am post graduate in art with several years of experience in museums and exhibi
 | Project                     | Summary          | Technologies  | Testing      |
 | ----------------------------|:----------------:|:-------------:| ------------:|
 | [Chitter](https://github.com/GiadaSimonetti/chitter-challenge)| My own "Twitter"|Ruby, Sinatra| RSpec, Capybara |
-| [nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)| Group project to create a "Airbnb"like site | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |RSpec, Capybara|
+| [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)| Group project to create a "Airbnb"like site | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |RSpec, Capybara|
 | [Notepad](https://github.com/GiadaSimonetti/notepad)| Group project to create a notepad application | Vanilla JavaScript, HTML/CSS  |Own Testing Syntax |
 
 
@@ -45,15 +45,15 @@ I am post graduate in art with several years of experience in museums and exhibi
 - **Free Code Camp** (Jul 2016 - Now)
 - **ELATT** (Sep 2015 - Apr 2016)
 
-#### Any other qualifications
+#### Other qualifications
 
-**Post Graduate Certificate** in **Cultural Management** (Feb 2012 - Nov 2012)
+- **Post Graduate Certificate** in **Cultural Management** (Feb 2012 - Nov 2012)
 *Ferrara University, Ferrara, Italy*
 
-**Master’s Degree** in **Art History** (2005 – 2008)
+- **Master’s Degree** in **Art History** (2005 – 2008)
 *University of Urbino 'Carlo Bo', Urbino, Italy*
 
-**Bachelor’s Degree** in **Cultural Heritage** (2002 – 2006)
+- **Bachelor’s Degree** in **Cultural Heritage** (2002 – 2006)
 *University of Urbino 'Carlo Bo', Urbino, Italy*
 
 ## Experience
