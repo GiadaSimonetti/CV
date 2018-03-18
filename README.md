@@ -8,7 +8,7 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 | Project                                                        |                       Summary                        |                    Technologies                    |              Testing |
 | -------------------------------------------------------------- | :--------------------------------------------------: | :------------------------------------------------: | -------------------: |
-| [PickABook](https://github.com/GiadaSimonetti/pick_a_book_v2)  | Group project to create a web app to swap used books |              Elixir, Phoenix React.js              | ExUnit, Jest, Enzyme |
+| [PickABook](https://github.com/GiadaSimonetti/pick_a_book_v2)  | Group project to create a web app to swap used books |             Elixir, Phoenix, React.js              | ExUnit, Jest, Enzyme |
 | [Notepad](https://github.com/GiadaSimonetti/notepad)           |    Group project to create a notepad application     |            Vanilla JavaScript, HTML/CSS            |   Own Testing Syntax |
 | [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)         |     Group project to create a "Airbnb"like site      | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |      RSpec, Capybara |
 | [Chitter](https://github.com/GiadaSimonetti/chitter-challenge) |                   My own "Twitter"                   |                   Ruby, Sinatra                    |      RSpec, Capybara |
