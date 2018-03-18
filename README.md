@@ -8,19 +8,18 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 | Project                                                        |                       Summary                        |                    Technologies                    |              Testing |
 | -------------------------------------------------------------- | :--------------------------------------------------: | :------------------------------------------------: | -------------------: |
-| [Chitter](https://github.com/GiadaSimonetti/chitter-challenge) |                   My own "Twitter"                   |                   Ruby, Sinatra                    |      RSpec, Capybara |
-| [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)         |     Group project to create a "Airbnb"like site      | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |      RSpec, Capybara |
-| [Notepad](https://github.com/GiadaSimonetti/notepad)           |    Group project to create a notepad application     |            Vanilla JavaScript, HTML/CSS            |   Own Testing Syntax |
 | [PickABook](https://github.com/GiadaSimonetti/pick_a_book_v2)  | Group project to create a web app to swap used books |              Elixir, Phoenix React.js              | ExUnit, Jest, Enzyme |
+| [Notepad](https://github.com/GiadaSimonetti/notepad)           |    Group project to create a notepad application     |            Vanilla JavaScript, HTML/CSS            |   Own Testing Syntax |
+| [Nodo-bnb](https://github.com/GiadaSimonetti/nodo-bnb)         |     Group project to create a "Airbnb"like site      | Ruby, Sinatra, Datamapper, PSQL, Jquery, Bootstrap |      RSpec, Capybara |
+| [Chitter](https://github.com/GiadaSimonetti/chitter-challenge) |                   My own "Twitter"                   |                   Ruby, Sinatra                    |      RSpec, Capybara |
 
 ## Skills
 
-#### fast learning
+#### Fast-Learner
 
-Before start Makers, I taught myself javascript and jQuery and made some projects(see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
+Before start Makers Academy, I taught myself javascript and jQuery and made some projects(see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
+During 12-week Makers course I have deeply experienced pair programming, retro, stands up.
 In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop us.
-
-Wide experience pair programming, not only with my peers but also with my mentees in more junior cohorts.
 
 #### jkjjhjhjjjjj
 
