@@ -17,7 +17,7 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 #### Fast-Learner
 
-Before starting Makers Academy, I taught myself javascript and jQuery and made some projects (see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
+Before starting Makers Academy, I taught myself Javascript and jQuery and made some projects (see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
 
 During the 12-week Makers Academy course I have deeply experienced pair programming, retro, stands up.
 
