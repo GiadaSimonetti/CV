@@ -19,9 +19,9 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 Before starting Makers Academy, I taught myself javascript and jQuery and made some projects (see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
 
-During 12-week Makers course I have deeply experienced pair programming, retro, stands up.
+During the 12-week Makers Academy course I have deeply experienced pair programming, retro, stands up.
 
-In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new Javscript library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop ourselves.
+In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new Javascript library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop ourselves.
 
 #### Team-worker
 
@@ -44,6 +44,10 @@ I have a natural approach to facilitate other people’s learning, as I have don
 * Ruby, Rails, JavaScript
 
 * RSpec, Jasmine
+
+* Elixir, Phoenix, React (for the final project)
+
+* Jest, Enzime (for the final project)
 
 #### Other Courses
 
