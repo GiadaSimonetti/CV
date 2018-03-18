@@ -47,7 +47,7 @@ I have a natural approach to facilitate other people’s learning, as I have don
 
 * Elixir, Phoenix, React (for the final project)
 
-* Jest, Enzime (for the final project)
+* ExUnit, Jest, Enzyme (for the final project)
 
 #### Other Courses
 
