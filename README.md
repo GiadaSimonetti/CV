@@ -86,9 +86,9 @@ _Museum Assistant_
 
 <a href="https://www.linkedin.com/in/giada-simonetti-9b733037">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
+<!-- 
 <a href="https://github.com/GiadaSimonetti">
-<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" hspace="50" height="42" width="42"></a>
+<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="GitHub" hspace="50" height="42" width="42"></a> -->
 
 <a href="https://codepen.io/Magenta/">
 <img src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="Codepen" hspace="50" height="42" width="42"></a>
