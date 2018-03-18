@@ -55,7 +55,7 @@ I have a natural approach to facilitate other people’s learning, as I have don
 * **Free Code Camp** (Jul 2016 - Now)
 * **ELATT** (Sep 2015 - Apr 2016)
 
-#### Other qualifications
+#### University
 
 * **Post Graduate Certificate** in **Cultural Management** (Feb 2012 - Nov 2012)
   _Ferrara University, Ferrara, Italy_
