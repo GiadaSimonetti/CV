@@ -21,7 +21,7 @@ Before start Makers Academy, I taught myself javascript and jQuery and made some
 During 12-week Makers course I have deeply experienced pair programming, retro, stands up.
 In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop us.
 
-#### jkjjhjhjjjjj
+#### Team-worker
 
 I have a natural approach to facilitate other people’s learning, as I have done during my previous job at Primark. As a retail assistant, I was sent to Milan to support during the opening of the first store in Italy. My task was to train the new local personnel, and thanks to my support and coaching, they all passed the probation period and were ready for the role.
 
