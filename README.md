@@ -15,12 +15,16 @@ I am post graduate in art with several years of experience in museums and exhibi
 
 ## Skills
 
-* I have a natural approach to facilitate other people’s learning, as I have done during my previous job at Primark. As a retail assistant, I was sent to Milan to support during the opening of the first store in Italy. My task was to train the new local personnel, and thanks to my support and coaching, they all passed the probation period and were ready for the role.
-* Some of the Free Code Camp projects I have done include:
-  * a random quote machine https://goo.gl/ohPXmE which is responsive and where I implemented buttons to tweet the quote and share it on Tumblr. I did so by reading the official docs and googling for what I didn’t know;
-  * another random quote machine https://goo.gl/Hk6tnn in which it is also possible to automatically search for the author of the quote;
-  * a page that displays the current weather https://goo.gl/ErCL9R It consumes data from a public API, and can find the location of the user, show the weather and change the temperature from Celsius to Fahrenheit.
-* I have been to some meetups, such as a Codebar monthly talk, and a hackathon (peacehackLDN 2017: Robots for Peace) in which I built a Twitter bot that sends a random message of peace every hour: https://twitter.com/GiadaPeaceBot
+#### fast learning
+
+Before start Makers, I taught myself javascript and jQuery and made some projects(see [Other projects](https://github.com/GiadaSimonetti/OtherProjects)).
+In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop us.
+
+Wide experience pair programming, not only with my peers but also with my mentees in more junior cohorts.
+
+#### jkjjhjhjjjjj
+
+I have a natural approach to facilitate other people’s learning, as I have done during my previous job at Primark. As a retail assistant, I was sent to Milan to support during the opening of the first store in Italy. My task was to train the new local personnel, and thanks to my support and coaching, they all passed the probation period and were ready for the role.
 
 ## Education
 
