@@ -25,6 +25,8 @@ In the last two weeks of the course, we chose to do a new language for the backe
 
 #### Team-worker
 
+I’m professional and I have good organisational skills, always keen to learn and push myself and the team forward.
+
 I have a natural approach to facilitate other people’s learning, as I have done during my previous job. As a retail assistant, I was sent to Milan to support during the opening of the first store in Italy. My task was to train the new local personnel, and also thanks to my support and coaching, they all passed the probation period and were ready for the role.
 
 ## Education
