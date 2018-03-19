@@ -21,7 +21,7 @@ Before starting Makers Academy, I taught myself Javascript and jQuery and made s
 
 During the 12-week Makers Academy course I have deeply experienced pair programming, retro, stands up.
 
-In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new Javascript library (React) for the frontend. As a group we faced many challenges but we used them as learning opportunities, to push and develop ourselves.
+In the last two weeks of the course, we chose to do a new language for the backend (Elixir) with a new framework (Phoenix) and use a new Javascript library (React) for the frontend. As a group, we faced many challenges but we used them as learning opportunities, to push and develop ourselves.
 
 #### Team-worker
 
