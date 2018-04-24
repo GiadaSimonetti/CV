@@ -2,7 +2,8 @@
 
 [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience)| [INTERESTS](#interests) | [CONTACTS](#contacts)
 
-I am post graduate in art with several years of experience in museums and exhibitions. I can work effectively as part of a team. I am punctual, friendly and polite. I have good organisation and communication skills, that I have been gathered during university and my previous jobs. I am creative, reliable and responsible. I am motivated and committed to what I do and always willing to learn new things.
+I am a junior full stack developer with an Art History background.
+A few months ago I started Makers Academy web development Bootcamp, where I paired every day and learned Ruby, Rails, JavaScript and, for the final project, Elixir, Phoenix and React. During the course, I also learned and practiced the principles of well-written code and applied agile methodologies such as pair-programming, test-driven development, behaviour-driven development, retros, and stand-ups.
 
 ## Projects
 
